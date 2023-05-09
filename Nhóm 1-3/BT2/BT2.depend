@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682234174 source:c:\users\admin\desktop\thi_nnltc\bt2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
